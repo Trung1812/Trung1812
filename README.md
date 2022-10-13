@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Trung1812
+- 👀 I’m interested in mathematics and computer science
+- 🌱 I’m currently learning Artificial Intelligence, Optimalization, etc.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me my email address: phamtrungnhom@gmail.com
