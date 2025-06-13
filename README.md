@@ -17,23 +17,20 @@ Welcome to my corner of GitHub! I’m passionate about blending the beauty of ma
 ## 🚀 Projects & Highlights
 | Project | Description |
 |---|---|
-| 📊 `optuna-experiments` | Automated hyperparameter tuning benchmarks for ML pipelines |
-| 🔍 `distance-metrics` | Custom metric modules for 1-NN and beyond using efficient NumPy implementations |
-| 🤖 `ai-chatbot` | Transformer-based conversational agent with real-time deployment |
-
+| 📊 `temporal-masked-wasserstein` | A structured optimal transport distance designed for time series |
+| 🔍 `angular-resection` | A project exploring location estimation from anchors (references) and bearings (angle to refs) |
+| 🤖 `code-generation-codet5p` | Finetune and Optimize for Efficiency Transformer-based code assistant model |
 
 ## 🤝 Let’s Collaborate
 I’m always looking to team up on:
 - **Open-source AI/Optimization** libraries
-- **Research** in algorithmic efficiency and scalable ML
+- **Research** in algorithmic efficiency, optimal transport and scalable ML
 - **Data-driven** solutions to real-world problems
 
 Shoot me an email — I’d love to connect!
 
-📫 **Reach me**: [phamtrungnhom@gmail.com](mailto:phamtrungnhom@gmail.com)
+📫 **Reach me**: [trung.pq214935@gmail.com](mailto:trung.pq214935@gmail.com)
 
 ---
 
 > “Mathematics is the language in which God has written the universe.” – Galileo Galilei
-
-![Visitors](https://visitor-badge.laobi.link/badge?page_id=Trung1812.Trung1812)
